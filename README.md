@@ -26,6 +26,6 @@ We welcome contributions from anyone who is interested in helping improve our ga
 ```docs: ...``` for update documentation.
 
 ## Contributors
-<a href="https://github.com/Vansh0ter/UnityPlatformProj/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Vansh0ter/UnityPlatformProj" />
+<a href="https://github.com/tidmkhokhlov/Lost-Knight/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tidmkhokhlov/Lost-Knight" />
 </a>
