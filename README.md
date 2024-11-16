@@ -19,11 +19,11 @@ We welcome contributions from anyone who is interested in helping improve our ga
 12. Make a pull request
     
 ### Rules for making comments
-1) add: ...``` for the created files, folders, and etc.
-2) feat: ...``` for the added features and changed files.
-3) fix: ...``` for the fixed errors.
-4) refactor: ...``` for the moved data.
-5) docs: ...``` for update documentation.
+1) ```add: ...``` for the created files, folders, and etc.
+2) ```feat: ...``` for the added features and changed files.
+3) ```fix: ...``` for the fixed errors.
+4) ```refactor: ...``` for the moved data.
+5) ```docs: ...``` for update documentation.
 
 ## Contributors
 <a href="https://github.com/tidmkhokhlov/Lost-Knight/graphs/contributors">
